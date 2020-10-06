@@ -21,5 +21,6 @@ HMRITM Students can make 1 out of 4 PR's for Hacktoberfest 2020 in this repo.
 12. Open Git Bash and change directory to Hacktoberfest2020 in case you closed Git Bash previously. 
 13. Write ``` git add . ``` 
 14. Commit your changes ``` git commit -m "Add contributor [your-name]" ```. Write your full name in [your-name]. 
-15. Go to the Hacktoberfest2020 repo in your profile 
-16. Create a pull request to the master branch of dsc-hmritm/Hacktoberfest2020.
+15. Now push your changes to the cloned repo ``` git push -u origin master ```
+16. Go to the Hacktoberfest2020 repo in your profile 
+17. Create a pull request to the master branch of dsc-hmritm/Hacktoberfest2020.
