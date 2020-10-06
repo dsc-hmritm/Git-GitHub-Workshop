@@ -1,5 +1,4 @@
 # HACKTOBERFEST 2020
-HMRITM Students can make 1 out of 4 PR's for Hacktoberfest 2020 in this repo.
 
 ## How to Contribute?
 1. Fork the repo.
