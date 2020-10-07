@@ -21,6 +21,6 @@
 12. Open Git Bash and change directory to Git-GitHub-Workshop in case you closed Git Bash previously. 
 13. Write ``` git add . ``` 
 14. Commit your changes ``` git commit -m "Add contributor [your-name]" ```. Write your full name in [your-name]. 
-15. Now push your changes to the cloned repo ``` git push -u origin master ```
+15. Now push your changes to the cloned repo ``` git push -u origin <branch-name> ```
 16. Go to the Hacktoberfest2020 repo in your profile 
 17. Create a pull request to the master branch of dsc-hmritm/Git-GitHub-Workshop.
