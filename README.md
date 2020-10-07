@@ -1,4 +1,5 @@
-# HACKTOBERFEST 2020
+# Introduction to Git and GitHub Workshop with DSC HMRITM
+# What is HacktoberFest 2020?
 
 ## How to Contribute?
 1. Fork the repo.
