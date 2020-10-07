@@ -8,7 +8,7 @@
 
 5. Clone the repo. ``` git clone https://www.github.com/[your-username]/Hacktoberfest2020.git ```
 
-6. Go to Hacktoberfest 2020 directory. ``` cd Hacktoberfest2020 ```
+6. Go to Hacktoberfest 2020 directory. ``` cd Git-GitHub-Workshop ```
 
 7. ``` git init ```
 
