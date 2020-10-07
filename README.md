@@ -1,6 +1,18 @@
 # HACKTOBERFEST 2020
 
 ## How to Contribute?
+
+### Short Method
+
+1. From the repository page on GitHub (https://github.com/dsc-hmritm/Hacktoberfest2020), click 'Add File'.
+2. From the drop down menu, select 'Create new file'.
+3. Set the file name to [your-name].txt.
+4. Write your name, github profile url, Class, Enrollment number.
+5. Add a description of your changes, and click "Propose new file".
+6. Click "Create pull request", then click "Create pull request" again to confirm.
+
+### Long Method
+
 1. Fork the repo.
 2. Copy the _Code_ of the forked repo i.e. (your-username)/Hacktoberfest2020.
 3. Download [Git Bash](https://git-scm.com/downloads)
